@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://www.tripsavvy.com/thmb/oOoIxfAquiM7PBa_sDMXNdo_wtk=/2416x1600/filters:fill(auto,1)/how-to-visit-the-googleplex-google-hq-mountain-view-57e2d4515f9b586c3529ba9c.jpg");
+    background-repeat: no-repeat;
+    background-size: 1376px 720px;
+}
+#nav{
+    height: 22vh; width: 100%;
+}
+#mainlist{
+    list-style:none;
+    margin-left: 1100px;
+}
+li{
+    float: left;
+    padding: 8px;
+}
+#google{
+    height: 130px;
+    width: 310px;
+    margin-left: 500px;
+}
+#searchbox{
+    height: 40px;
+    width: 500px;
+    margin-left: 410px;
+    border: 1px solid #e5e5e5;
+    font-size: 20px;
+    border-radius: 3%;
+    box-shadow: 0px 3px 0px 0px #e5e5e5;
+}
+button,#submitb{
+    height: 38px; width: 140px;
+    background-color: #f6f6f6;
+    font-size: 15px; color: #222222;
+}
+button:hover{
+    background-color:orchid;
+}
+#submitb:hover{
+    background-color:orange;
+}
+#buttons{
+    margin-top: 35px;
+    margin-left: 520px;
+}
